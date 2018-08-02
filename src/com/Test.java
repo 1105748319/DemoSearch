@@ -49,7 +49,7 @@ public class Test {
 			//Test test=new Test();
 			String pp=test.getPattenStr();
 			//String regEx = "console*";
-			String regEx = pp;
+			String regEx = pp;  
 		    // 编译正则表达式
 		    Pattern pattern = Pattern.compile(regEx);
 		    // 忽略大小写的写法
